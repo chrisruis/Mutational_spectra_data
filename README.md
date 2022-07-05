@@ -1,10 +1,9 @@
-# Mutational_spectra_data
 Data and scripts used in "Mutational spectra analysis reveals bacterial niche and transmission routes"
 
-## data
+# data
 This directory contains data used in the manuscript
 
-### mutational_spectra directory
+## mutational_spectra directory
 Contains variable sites alignments, phylogenetic trees, position conversion files, reference genomes and rescaled mutational spectra for the 84 clade datasets
 
 Directories are named to match the clade name in all\_SBS\_spectra.csv (Table Sx in the manuscript)
