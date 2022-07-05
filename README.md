@@ -13,3 +13,9 @@ Alignments and phylogenetic trees are named to match the directory name. Positio
 Where clades were labelled to separate branches into groups (e.g. to remove hypermutator branches), the labelled trees are included with suffix \_labelled.nwk
 
 SBS spectra were calculated separately for three _B. cenocepacia_ epidemic clones and combined to form a single SBS spectrum for further analysis. Alignments, phylogenetic trees and labelled trees are provided for each epidemic clone. The combined SBS spectrum is in the B\_cenocepacia\_ECs directory. The same conversion.txt file was used for each epidemic clone
+
+SBS spectra were calculated for _M. abscessus_ [here](https://www.nature.com/articles/s41564-021-00963-3) by combining internal branch mutations from DCC and non-DCC clades. SBS spectra are included in this directory for these datasets, the input data used in their calculation is [here](doi.org/10.5281/zenodo.5116229)
+
+The _M. canettii_ dataset additionally includes a small number of _M. tuberculosis_ sequences. The _M. canettii_ SBS spectrum was calculated using the labelled tree in which label MCAN corresponds to the _M. canettii_ branches
+
+The _M. kansasii_ MKMC and non-MKMC spectra were calculated from the same alignment and phylogenetic tree using the labelled tree in which MKMC and non-MKMC are labelled separately
