@@ -26,3 +26,13 @@ DBS spectra are included in the _C. acnes_ and _S. epidermidis_ directories with
 ## dna_repair_gene_signatures directory
 
 Contains SBS signatures for DNA repair genes, identified through hypermutator lineages. Files are named with the species from which the signature was extracted followed by the DNA repair gene
+
+## salmonella_spectra directory
+
+Contains variable sites alignments, phylogenetic trees, position conversion files, reference genomes and SBS spectra for _Salmonella_ datasets
+
+Directories are named to match the clade name in all\_salmonella\_spectra.csv (Table Sx in the manuscript)
+
+Alignments and phylogenetic trees are named to match the directory name. Position conversion files are named conversion.txt. SBS spectra are named with the directory name followed by \_SBS\_spectrum.csv
+
+SBS spectra were calculated for 3 FastBAPS clusters within Typhimurium ST19 using a phylogenetic tree labelled with clades E1, E2 and E3. Branches labelled R were not included in these SBS spectra
