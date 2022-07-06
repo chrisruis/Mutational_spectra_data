@@ -1,6 +1,6 @@
 Data and scripts used in "Mutational spectra analysis reveals bacterial niche and transmission routes"
 
-## data
+# data
 
 ## clade directory
 
