@@ -22,3 +22,7 @@ The _M. canettii_ dataset additionally includes a small number of _M. tuberculos
 The _M. kansasii_ MKMC and non-MKMC SBS spectra were calculated from the same alignment and phylogenetic tree using the labelled tree in which MKMC and non-MKMC are labelled separately
 
 DBS spectra are included in the _C. acnes_ and _S. epidermidis_ directories with the suffix \_DBS\_spectrum.csv. The _S. epidermidis_ DBS spectra in manuscript Figure 4 was formed by combining the DBS spectra of the 3 phylogenetic groups
+
+## dna_repair_gene_signatures directory
+
+Contains SBS signatures for DNA repair genes, identified through hypermutator lineages. Files are named with the species from which the signature was extracted followed by the DNA repair gene
