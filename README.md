@@ -19,3 +19,5 @@ SBS spectra were calculated for _M. abscessus_ [here](https://www.nature.com/art
 The _M. canettii_ dataset additionally includes a small number of _M. tuberculosis_ sequences. The _M. canettii_ SBS spectrum was calculated using the labelled tree in which label MCAN corresponds to the _M. canettii_ branches
 
 The _M. kansasii_ MKMC and non-MKMC spectra were calculated from the same alignment and phylogenetic tree using the labelled tree in which MKMC and non-MKMC are labelled separately
+
+DBS spectra are included in the _C. acnes_ and _S. epidermidis_ directories with the suffix \_DBS\_spectrum.csv. The _S. epidermidis_ DBS spectra in manuscript Figure 4 was formed by combining the DBS spectra of the 3 phylogenetic groups
