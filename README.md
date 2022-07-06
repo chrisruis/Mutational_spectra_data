@@ -31,7 +31,7 @@ Contains SBS signatures for DNA repair genes, identified through hypermutator li
 
 Contains variable sites alignments, phylogenetic trees, position conversion files, reference genomes and SBS spectra for _Salmonella_ datasets
 
-Directories are named to match the clade name in all\_salmonella\_spectra.csv (Table Sx in the manuscript)
+Directories are named to match the clade name in all\_salmonella\_SBS\_spectra.csv (Table Sx in the manuscript), which contains all of the Salmonella SBS spectra as a single catalogue
 
 Alignments and phylogenetic trees are named to match the directory name. Position conversion files are named conversion.txt. SBS spectra are named with the directory name followed by \_SBS\_spectrum.csv
 
