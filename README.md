@@ -35,4 +35,6 @@ Directories are named to match the clade name in all\_salmonella\_spectra.csv (T
 
 Alignments and phylogenetic trees are named to match the directory name. Position conversion files are named conversion.txt. SBS spectra are named with the directory name followed by \_SBS\_spectrum.csv
 
-SBS spectra were calculated for 3 FastBAPS clusters within Typhimurium ST19 using a phylogenetic tree labelled with clades E1, E2 and E3. Branches labelled R were not included in these SBS spectra
+SBS spectra were calculated for 3 FastBAPS clusters within Typhimurium ST19 using a phylogenetic tree labelled with clades E1, E2 and E3. Branches labelled R were not included in these SBS spectra. The alignment, phylogenetic tree and labelled phylogenetic tree is therefore the same for the E1, E2 and E3 datasets
+
+SBS spectra were calculated for 3 enteric FastBAPS clusters within Typhimurium ST313 using a phylogenetic tree labelled with clades E1, E2 and E3. Branches labelled R were not included in these SBS spectra. The alignment, phylogenetic tree and labelled phylogenetic tree is therefore the same for the E1, E2 and E3 datasets
