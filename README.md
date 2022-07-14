@@ -40,6 +40,7 @@ SBS spectra were calculated for 3 FastBAPS clusters within Typhimurium ST19 usin
 SBS spectra were calculated for 3 enteric FastBAPS clusters within Typhimurium ST313 using a phylogenetic tree labelled with clades E1, E2 and E3. Branches labelled R were not included in these SBS spectra. The alignment, phylogenetic tree and labelled phylogenetic tree is therefore the same for the E1, E2 and E3 datasets
 
 ## P_aeruginosa_ST_spectra directory
+
 Contains variable sites alignments, phylogenetic trees, position conversion files, reference genomes and labelled phylogenetic trees used to calculate DNA repair gene hypermutator SBS spectra from _P. aeruginosa_ lineages
 
 In labelled phylogenetic trees, branches with no evidence of hypermutation are labelled nH while potential hypermutator branches are labelled with either the tip name (for tip branches) or the internal node name (for branches downstream of internal hypermutator lineages)
@@ -50,3 +51,7 @@ hypermutator_branches.csv contains the 50 hypermutator lineages, their STs, bran
 
 ## mycobacteria_hypermutator_lineages directory
 Contains the SBS spectra for hypermutator lineages in _M. abscessus_ and _M. leprae_. The gene corresponding to each hypermutator lineage is in hypermutator_branches.csv within the P_aeruginosa_ST_spectra directory
+
+# figures_data
+
+Contains raw data and scripts used to produce each figure and supplementary figure. Each directory contains a README with more information
