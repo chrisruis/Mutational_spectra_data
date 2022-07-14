@@ -1,0 +1,26 @@
+,X,Y,Niche
+M_abscessus_DCCs,-0.021926157,-3.96E-05,Unknown
+M_abscessus_environmental,0.031251165,0.027218149,Environmental
+M_tuberculosis_lineage1,-0.049269967,-0.016420987,Human lung
+M_tuberculosis_lineage2,-0.028647842,-0.000592637,Human lung
+M_tuberculosis_lineage3,-0.036885529,-0.01147357,Human lung
+M_tuberculosis_lineage4,-0.037899455,-0.005737451,Human lung
+M_tuberculosis_lineage5,-0.043794417,-0.015628135,Human lung
+M_tuberculosis_lineage6,-0.051459997,-0.022043745,Human lung
+M_tuberculosis_lineage7,-0.040621151,-0.000107553,Human lung
+M_tuberculosis_orygis,-0.003407471,0.016350293,Animal lung
+M_tuberculosis_caprae,-0.020085745,0.011552453,Animal lung
+M_tuberculosis_bovis,-0.028323359,0.003060133,Animal lung
+M_canettii,0.031549687,0.027470932,Environmental
+M_leprae,-0.057099825,-0.037879417,Unknown
+M_avium,0.013053645,0.043112185,Environmental
+M_intracellulare,0.021004813,0.048638396,Environmental
+M_chimaera,0.011023996,0.014611126,Environmental
+M_kansasii_non_MKMC,0.01650007,0.025434001,Environmental
+M_kansasii_MKMC,-0.003621999,0.004378641,Unknown
+B_cenocepacia_ECs,-0.008485895,-0.008221033,Human lung
+B_pseudomallei_group1,0.026916912,0.04153771,Environmental
+B_pseudomallei_group2,0.064766614,-0.037579879,Environmental
+B_pseudomallei_group3,0.072050048,-0.03812944,Environmental
+B_pseudomallei_group4,0.069200549,-0.041110697,Environmental
+B_pseudomallei_group5,0.074211312,-0.028399888,Environmental
