@@ -1,4 +1,4 @@
-Data used to construct Figure 2 showing DNA repair gene signatures
+## Data for Figure 2
 
 Panel A is the tree in P_aeruginosa_ST274.nwk
 

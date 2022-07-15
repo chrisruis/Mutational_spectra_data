@@ -1,4 +1,4 @@
-Data used in Figure 3
+## Data for Figure 3
 
 Panel A - PCA coordinates in PCA_SBS_spectra_coordinates.csv
 

@@ -1,4 +1,4 @@
-Data for Figure S4
+## Data for Figure S4
 
 Spectrum summary statistics including the variance of each mutation are in spectra_combined_summary.csv
 

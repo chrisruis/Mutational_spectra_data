@@ -1,4 +1,4 @@
-Data for Figure S3
+## Data for Figure S3
 
 All data is in GC_content_proportion_GC_mutations.csv
 

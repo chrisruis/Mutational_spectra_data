@@ -1,4 +1,4 @@
-Data for Figure 4
+## Data for Figure 4
 
 Panel A - cosine similarities between Salmonella spectra in salmonella_cosine_similarity.csv
 

@@ -1,4 +1,4 @@
-## data for Figure S13
+## Data for Figure S13
 
 C_jejuni_cluster_spectra.csv contains the mutations elevated in each C. jejuni clade compared with E. coli lineage 34
 
