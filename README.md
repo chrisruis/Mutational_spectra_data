@@ -54,4 +54,4 @@ Contains the SBS spectra for hypermutator lineages in _M. abscessus_ and _M. lep
 
 # figures_data
 
-Contains raw data and scripts used to produce each figure and supplementary figure. Each directory contains a README with more information
+Contains raw data used to produce each figure and supplementary figure. Each directory contains a README with more information
