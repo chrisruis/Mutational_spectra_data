@@ -1,0 +1,26 @@
+Spectrum,Proportion_Bacteria_Lung1,Niche
+M_tuberculosis_lineage6,0.770278076,Human lung
+M_tuberculosis_lineage1,0.724208578,Human lung
+M_tuberculosis_lineage5,0.702012797,Human lung
+M_tuberculosis_lineage3,0.592777874,Human lung
+M_tuberculosis_lineage4,0.565172911,Human lung
+M_tuberculosis_lineage7,0.483711747,Human lung
+M_tuberculosis_lineage2,0.446428571,Human lung
+B_cenocepacia_ECs,0.426682692,Human lung
+M_leprae,0.835280374,Human lung
+M_abscessus_DCCs,0.389638136,Unknown
+M_kansasii_MKMC,0.369967228,Unknown
+M_tuberculosis_bovis,0.233836897,Animal lung
+M_tuberculosis_orygis,0.170907153,Animal lung
+M_tuberculosis_caprae,0.165485431,Animal lung
+M_chimaera,0.247600167,Environmental
+M_kansasii_non_MKMC,0.154393438,Environmental
+B_pseudomallei_group2,0.115889574,Environmental
+B_pseudomallei_group4,0.111001984,Environmental
+M_avium,0.083536059,Environmental
+M_abscessus_environmental,0,Environmental
+M_canettii,0,Environmental
+M_intracellulare,0,Environmental
+B_pseudomallei_group1,0,Environmental
+B_pseudomallei_group3,0,Environmental
+B_pseudomallei_group5,0,Environmental
