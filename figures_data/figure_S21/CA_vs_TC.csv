@@ -1,0 +1,27 @@
+Spectrum,C>A,T>C
+M_abscessus_DCCs,0.131357629,0.288079028
+M_abscessus_environmental,0.046721061,0.492168317
+M_tuberculosis_lineage1,0.110016884,0.220895649
+M_tuberculosis_lineage2,0.087829312,0.286009253
+M_tuberculosis_lineage3,0.099931003,0.238816697
+M_tuberculosis_lineage4,0.090760447,0.245516626
+M_tuberculosis_lineage5,0.110063312,0.221759414
+M_tuberculosis_lineage6,0.117409241,0.218811881
+M_tuberculosis_lineage7,0.123544504,0.227748174
+M_tuberculosis_orygis,0.05594033,0.381726159
+M_tuberculosis_caprae,0.071195591,0.375098414
+M_tuberculosis_bovis,0.06162586,0.350232037
+M_canettii,0.05218003,0.455576631
+M_leprae,0.141922673,0.17486275
+M_avium,0.048033797,0.437743484
+M_intracellulare,0.046656167,0.451843806
+M_chimaera,0.07375339,0.356978928
+M_kansasii_non_MKMC,0.064317327,0.406945305
+M_kansasii_MKMC,0.099110695,0.317926515
+B_cenocepacia_ECs,0.08260739,0.304295584
+B_pseudomallei_group1,0.032852623,0.515065117
+B_pseudomallei_group2,0.041137621,0.478526348
+B_pseudomallei_group3,0.04142019,0.48577016
+B_pseudomallei_group4,0.040729702,0.472779606
+B_pseudomallei_group5,0.039252007,0.517374631
+MKMC tetR1/2 clade 1,0.148048622,0.20333819
