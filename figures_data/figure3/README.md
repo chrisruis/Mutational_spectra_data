@@ -1,13 +1,7 @@
-## Data for Figure 3
+## Data for figure 3
 
-Panel A - PCA coordinates in PCA_SBS_spectra_coordinates.csv
+The extracted mutational signatures in panel A are in SBS_signatures.csv
 
-Panel B - C>A and T>C proportions in CA_vs_TC.csv
+The phylogenetic tree in the left hand of panel B is in species_tree.nwk. The signature clustering in the right hand of panel B is in signature_clustering.nwk
 
-Panel C - spectrum subtractions in csv files named with the two spectra
-
-Panel D - decomposition proportions in decomposition_proportions.csv
-
-Panel E - Lung_bacteria1 mutation proportions in Bacteria_Lung1.csv
-
-Panel F - proportion of mutations assigned to Bacteria_Lung1 in each spectrum in Bacteria_Lung1_proportions.csv
+The linear model results in panel C are in linear_model_results.csv

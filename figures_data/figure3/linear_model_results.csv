@@ -1,0 +1,7 @@
+Mutation type,BH adjusted p-value,Difference_in_R2
+C>A,0.0044205,0.0616
+C>G,0.34032,0.0069
+C>T,2.68E-07,0.1266
+T>A,0.003104,0.0559
+T>C,2.92E-10,0.2116
+T>G,0.8233,-0.0197

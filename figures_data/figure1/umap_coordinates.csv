@@ -1,0 +1,85 @@
+Spectrum,X,Y,Group
+M_abscessus_DCCs,-1.744377817,2.666608013,Lung mycobacteria
+M_abscessus_environmental,-1.950673019,4.076107082,Environmental
+M_tuberculosis_lineage1,-1.551560773,1.524477859,Lung mycobacteria
+M_tuberculosis_lineage2,-1.298227372,2.34598546,Lung mycobacteria
+M_tuberculosis_lineage3,-1.512644374,2.051605067,Lung mycobacteria
+M_tuberculosis_lineage4,-1.430315072,1.855771379,Lung mycobacteria
+M_tuberculosis_lineage5,-1.463508458,1.52593491,Lung mycobacteria
+M_tuberculosis_lineage6,-1.568138656,1.092237616,Lung mycobacteria
+M_tuberculosis_lineage7,-1.628474633,1.87592491,Lung mycobacteria
+M_tuberculosis_orygis,-1.78141975,3.274319622,Lung mycobacteria
+M_tuberculosis_caprae,-1.970826943,2.933879669,Lung mycobacteria
+M_tuberculosis_bovis,-1.848740615,2.5268231,Lung mycobacteria
+M_canettii,-2.113977591,3.9916446,Environmental
+M_leprae,0.908172597,-1.463558501,Other
+M_avium,-2.139527621,3.791349898,Environmental
+M_intracellulare,-1.853534255,3.862089641,Environmental
+M_chimaera,-2.041070121,3.523256896,Environmental
+M_kansasii_non_MKMC,-2.32055009,4.01400307,Environmental
+M_kansasii_MKMC,-1.86530833,3.490955094,Environmental
+P_aeruginosa_ST17,-0.821352602,1.726576656,Pseudomonas
+P_aeruginosa_ST111,-0.838846088,2.109900474,Pseudomonas
+P_aeruginosa_ST146,-0.99192778,0.435566756,Pseudomonas
+P_aeruginosa_ST175,-0.986468841,2.191642941,Pseudomonas
+P_aeruginosa_ST253,-1.442389251,2.436482349,Pseudomonas
+B_cenocepacia_ECs,-1.377523227,3.093830539,B. cenocepacia ECs
+B_pseudomallei_group1,-2.205587515,3.691556374,Environmental
+B_pseudomallei_group2,-1.749020389,4.738000794,Environmental
+B_pseudomallei_group3,-1.744963485,4.732282861,Environmental
+B_pseudomallei_group4,-1.793399365,4.700686247,Environmental
+B_pseudomallei_group5,-1.672526459,4.708564084,Environmental
+S_pneumoniae_GPSC1,2.370108377,-1.104546368,Streptococcus
+S_pneumoniae_GPSC2,2.630167732,-1.100369923,Streptococcus
+S_pneumoniae_GPSC3,2.851955639,-1.282736997,Streptococcus
+S_pneumoniae_GPSC6,2.792929041,-1.561127618,Streptococcus
+S_pneumoniae_GPSC54,3.379424412,-1.239978561,Streptococcus
+S_agalactiae_CC1,3.27797461,-1.552200394,Streptococcus
+S_agalactiae_CC10,3.031687747,-1.513098383,Streptococcus
+S_agalactiae_CC17,3.055014502,-1.006579916,Streptococcus
+S_agalactiae_CC19,3.475127945,-1.304505335,Streptococcus
+S_agalactiae_CC23,3.48361867,-1.310098393,Streptococcus
+S_equi,1.814012929,-2.247168545,Other
+S_pyogenes_phylogroup0,2.763055369,-1.811275495,Streptococcus
+S_pyogenes_phylogroup1,2.533941305,-2.007973769,Streptococcus
+S_pyogenes_phylogroup2,2.967761974,-1.322868297,Streptococcus
+S_pyogenes_phylogroup3,2.294837113,-1.169427516,Streptococcus
+S_aureus_ST22,1.524221819,-2.309915863,Staphylococcus
+S_aureus_ST239,1.393407948,-2.088919392,Staphylococcus
+S_aureus_ST772,1.75036918,-1.912373121,Staphylococcus
+S_aureus_CC398,1.425816474,-1.587383303,Staphylococcus
+S_epidermidis_groupA,0.957949698,-2.004716311,Staphylococcus
+S_epidermidis_groupB,0.639803905,-2.461834616,Staphylococcus
+S_epidermidis_groupC,0.782728117,-2.26264661,Staphylococcus
+S_haemolyticus,0.9659751,-1.8966937,Staphylococcus
+S_typhimurium,-1.072826344,-0.852205907,Other
+E_faecalis_pp2,1.001726679,-0.995897639,Enterococcus
+E_faecalis_pp6,0.447310813,-0.682111302,Enterococcus
+E_faecalis_pp7,0.624248624,-0.993681102,Enterococcus
+C_jejuni_cluster2,1.151312837,-4.835513701,Campylobacter
+C_jejuni_cluster5,1.241006314,-4.691187536,Campylobacter
+C_jejuni_cluster6,1.321613764,-4.962633283,Campylobacter
+C_jejuni_cluster7,1.220874649,-4.785276531,Campylobacter
+C_jejuni_cluster8,1.153583085,-4.645918997,Campylobacter
+K_pneumoniae_ST11,-0.981003797,0.014997334,Klebsiella
+K_pneumoniae_ST23,-0.712467203,0.193499257,Klebsiella
+K_pneumoniae_ST101,-0.419348539,0.134914087,Klebsiella
+K_pneumoniae_ST147,-0.527418562,-0.104574776,Klebsiella
+K_pneumoniae_ST258_512,-0.587038529,-0.005769936,Klebsiella
+N_gonorrhoea,-2.552395193,3.660464963,Other
+N_meningitidis_cluster1,0.984025525,-2.781498034,Other
+N_meningitidis_cluster2,-0.054964585,-2.038183163,Other
+N_meningitidis_urethritis,-0.212089278,-1.845949867,Other
+L_pneumophila_ST1,1.345088585,-1.590066221,Other
+L_pneumophila_environmental,0.74753999,-2.716836368,Other
+Y_pestis,-0.786582001,-0.246150851,Other
+C_acnes,-1.333377658,2.719462794,Other
+E_coli_lineage11,-0.851059644,-1.472386977,E. coli
+E_coli_lineage12,-0.740042283,-1.392638323,E. coli
+E_coli_lineage14,-1.003305591,-1.387548336,E. coli
+E_coli_lineage34,-1.042901299,-0.967211892,E. coli
+S_sonnei_lineage1,-1.185124431,-1.567347772,E. coli
+S_sonnei_lineage2,-1.241568485,-1.622660304,E. coli
+S_sonnei_lineage3,-1.235519988,-1.61174407,E. coli
+S_flexneri_PG3,-0.92524156,-1.119938977,E. coli
+H_influenzae_Hib,0.862762394,-2.274473604,Other
