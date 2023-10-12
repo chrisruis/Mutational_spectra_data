@@ -1,4 +1,4 @@
-Data and scripts used in "Mutational spectra analysis reveals bacterial niche and transmission routes"
+Data and scripts used in "Mutational spectra are associated with bacterial niche"
 
 # data
 This directory contains data used in the manuscript
@@ -7,7 +7,7 @@ This directory contains data used in the manuscript
 
 Contains variable sites alignments, phylogenetic trees, position conversion files, reference genomes and rescaled mutational spectra for the 84 clade datasets
 
-Directories are named to match the clade name in all\_SBS\_spectra.csv (Table Sx in the manuscript)
+Directories are named to match the clade name in all\_SBS\_spectra.csv
 
 Alignments and phylogenetic trees are named to match the directory name. Position conversion files are named conversion.txt. SBS spectra are named with the directory name followed by \_SBS\_spectrum.csv
 
