@@ -38,7 +38,16 @@ SBS spectra for individual hypermutator branches are in the respective ST direct
 hypermutator_branches.csv contains the 50 hypermutator lineages, their STs, branch names and file names. These files are within the respective ST directory, with the exception of the _M. abscessus_ and _M. leprae_ hypermutator lineages which are in the mycobacteria_hypermutator_lineages directory within the data directory
 
 ## mycobacteria_hypermutator_lineages directory
+
 Contains the SBS spectra for hypermutator lineages in _M. abscessus_ and _M. leprae_. The gene corresponding to each hypermutator lineage is in hypermutator_branches.csv within the P_aeruginosa_ST_spectra directory
+
+## M_kansasii_gene_burden_transmission directory
+
+Contains the data used to run transmission analyses and gene burden tests on _M. kansasii_. The _M. kansasii_ alignment and labelled phylogenetic tree are kansasii.filtered_polymorphic_sites.fasta and MKMC_rooted_labels.nex, respectively.
+
+SNP distances, geographical locations and sampling dates are in all_patient_linkages.csv.
+
+The results from the gene burden test are in poisson_test.txt and variants_in_burden_hits.txt.
 
 # figures_data
 
