@@ -1,4 +1,4 @@
-## Data for Figure S5
+## Data for Figure S5
 
 all_spectra_cosine_similarity.csv contains cosine similarity between all pairs of spectra
 
