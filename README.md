@@ -1,5 +1,7 @@
 Data and scripts used in "Mutational spectra are associated with bacterial niche"
 
+DOI: [![DOI](https://zenodo.org/badge/510709436.svg)](https://zenodo.org/badge/latestdoi/510709436)
+
 # data
 This directory contains data used in the manuscript
 
