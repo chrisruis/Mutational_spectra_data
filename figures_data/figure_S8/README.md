@@ -1,3 +1,3 @@
-## Data for Figure S8
+## Data for Figure S7
 
-DNA repair gene signatures are included for each gene names with species followed by gene name, same files as in data/dna_repair_gene_signatures
+MMR_signatures_combined.csv contains the SBS spectrum for each signature

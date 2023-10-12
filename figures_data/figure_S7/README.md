@@ -1,3 +1,3 @@
 ## Data for Figure S7
 
-MMR_signatures_combined.csv contains the SBS spectrum for each signature
+Phylogenetic trees for each ST are saved with the ST name followed by .nwk
